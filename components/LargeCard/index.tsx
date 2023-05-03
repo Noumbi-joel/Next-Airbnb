@@ -10,8 +10,8 @@ type Props = {
 const LargeCard = ({ img, title, description, buttonText }: Props) => {
   return (
     <section className="relative py-16 cursor-pointer">
-      <div className="relative h-96 min-w-[300px]">
-        <img src={img} alt="" className="rounded-2xl object-cover" />
+      <div className="h-96 min-w-[300px]">
+        <img src={img} alt="" className="rounded-2xl object-cover h-full" />
       </div>
 
       <div className="absolute top-32 left-12">

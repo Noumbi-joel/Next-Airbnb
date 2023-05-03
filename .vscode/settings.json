@@ -1,5 +1,8 @@
 {
     "marquee.widgets.npm-stats.packageNames": [
         "my-project"
+    ],
+    "cSpell.words": [
+        "Whishlists"
     ]
 }
