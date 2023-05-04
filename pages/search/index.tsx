@@ -1,4 +1,4 @@
-import { Footer, HeadTitle, Header, InfoCard, Map } from "@/components";
+import { Footer, HeadTitle, Header, InfoCard } from "@/components";
 import { format } from "date-fns";
 import { useRouter } from "next/router";
 import React from "react";
